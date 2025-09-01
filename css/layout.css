@@ -18,6 +18,7 @@
   gap: 0px;
   padding: 0px;
   background-color:#f7efe2;
+  height:100vh;
 
 }
 
@@ -105,10 +106,25 @@
 {
 }
 
-.right-section a
+.right-section a, .right-section a:visited
 {
   text-decoration:none;
 }
+
+.right-section a:hover
+{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
 
 .item-footer {
   grid-area: footer;
