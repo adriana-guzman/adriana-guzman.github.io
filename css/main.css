@@ -3,8 +3,6 @@ body
     background-color:#f7efe2;
     color:#6c6c6c;
     font-size:20pt;
-    margin-left:50px;
-    margin-right:50px;
 }
 
 
@@ -16,10 +14,16 @@ img.logo
 }
 
 
+div.content{
+    padding-top:30px;
+    padding-bottom:30px;
+    }
+
 div.carta, h1, h2, h3, h4, h5, h6
 {
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
+    margin-top:20px;
 }
 
 h1, h2, h3, h4, h5, h6
